@@ -21,7 +21,7 @@ from db.models import Test
 
 Last_name_handler, First_name_handler, Phone_number_handler, Courses_handler, Time_handler, Get_all_handler = range(6)
 
-updater = Updater('5251684463:AAEs2UI9CQcU8Q9Ay4H4g-YgN5RnlW0vXW8')
+updater = Updater('5191601486:AAHgfbp6RLrALjTpZaUL7NRqCt5ZQE97Vng')
 
 list = {}
 global_page = {}
